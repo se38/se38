@@ -1,4 +1,6 @@
 ### Hi there 👋
+* You can find me on [SAP Community](http://se38.de)
+* Visit the [ABAP Lovers Shop](http://shop.se38.de)
 
 <!--
 **se38/se38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
